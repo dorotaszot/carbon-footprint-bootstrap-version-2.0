@@ -74,6 +74,13 @@ ul {
 
 .konsultacje-card-top-home {
   background-color: #343a40;
+  color: #fff;
+}
+
+.home-card-img-top {
+  /* width: auto; */
+  /* height: 30%; */
+  /* margin: auto; */
 }
 
 /* konsultacje */
@@ -110,6 +117,7 @@ ul {
 
 .konsultacje-indywidualne-card-img-top {
   width: 50%;
+  height: 50%;
   margin: auto;
 }
 
