@@ -181,6 +181,7 @@ ul {
   margin-bottom: 30px;
   border: 1px solid rgba(0, 0, 0, 0.125);
   flex-direction: row;
+  /* height: 100vh; */
 }
 
 form,
@@ -189,7 +190,8 @@ textarea {
 }
 
 .kontakt-footer {
-  position: absolute;
+  /* position: absolute; */
+  /* bottom: 0; */
 }
 
 footer {
