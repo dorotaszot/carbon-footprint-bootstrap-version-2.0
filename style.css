@@ -72,6 +72,10 @@ ul {
   color: var(--secondary-color);
 }
 
+.konsultacje-card-top-home {
+  background-color: #343a40;
+}
+
 /* konsultacje */
 
 .konsultacje-card-img-top {
