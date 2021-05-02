@@ -83,6 +83,12 @@ ul {
   /* margin: auto; */
 }
 
+/* home-firmy */
+.firma-img {
+  height: 80px;
+  width: 160px;
+}
+
 /* konsultacje */
 
 .konsultacje-card-img-top {
