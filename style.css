@@ -103,7 +103,7 @@ ul {
 }
 
 .konsultacje-social-icon:hover {
-  color: #343a40;
+  color: #fff;
 }
 
 .konsultacje-breaker {
@@ -182,6 +182,8 @@ ul {
   border: 1px solid rgba(0, 0, 0, 0.125);
   flex-direction: row;
   /* height: 100vh; */
+  height: 100%;
+  /* margin-top: 80px; */
 }
 
 form,
@@ -191,7 +193,7 @@ textarea {
 
 .kontakt-footer {
   /* position: absolute; */
-  /* bottom: 0; */
+  bottom: 0;
 }
 
 footer {
