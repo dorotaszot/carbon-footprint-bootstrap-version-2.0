@@ -87,6 +87,7 @@ ul {
 .firma-img {
   height: 80px;
   width: 160px;
+  margin: 16px;
 }
 
 /* konsultacje */
@@ -218,6 +219,19 @@ footer {
   }
 }
 
+@media (max-width: 976px) {
+  .firma-img {
+    margin: 10px;
+  }
+}
+
+@media (max-width: 916px) {
+  .firma-img {
+    height: 60px;
+    width: 120px;
+  }
+}
+
 @media (max-width: 768px) {
   .home-header-text {
     font-size: 1.8rem;
@@ -271,6 +285,25 @@ footer {
   }
 }
 
+@media (max-width: 716px) {
+  .firma-img {
+    height: 50px;
+    width: 100px;
+  }
+}
+
+@media (max-width: 616px) {
+  .firma-img {
+    margin: 8px;
+  }
+}
+
+@media (max-width: 596px) {
+  .firma-img {
+    margin: 6px;
+  }
+}
+
 @media (max-width: 576px) {
   .home-container {
     margin-left: 0;
@@ -290,6 +323,13 @@ footer {
   .certyfikacja-card-img-top,
   .konsultacje-indywidualne-card-img-top {
     width: 100%;
+  }
+}
+
+@media (max-width: 465px) {
+  .firma-img {
+    height: 40px;
+    width: 80px;
   }
 }
 
@@ -314,5 +354,19 @@ footer {
   }
   .kontakt-wrapper {
     margin-top: 80px;
+  }
+}
+
+@media (max-width: 385px) {
+  .firma-img {
+    /* height: 25px;
+    width: 50px; */
+    margin: 5px;
+  }
+}
+
+@media (max-width: 376px) {
+  .firma-img {
+    margin: 4px;
   }
 }
